@@ -1,8 +1,9 @@
+---
 theme: jekyll-theme-architect
 title: Market Analysis
 ---
 What are we writing here, include blurb on recessions.
-image: 
+image:
   path: "/docs/assets/images/RecessionsSP500.gif"
 description: Getting thoughts on paper
 
