@@ -1,10 +1,6 @@
----
 theme: jekyll-theme-architect
 title: Market Analysis
----
+description: Getting thoughts on paper
 What are we writing here, include blurb on recessions.
 image:
   path: "/docs/assets/images/RecessionsSP500.gif"
-description: Getting thoughts on paper
-
-
