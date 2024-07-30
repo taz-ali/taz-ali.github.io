@@ -1,6 +1,5 @@
 theme: jekyll-theme-architect
 title: Market Analysis
-description: Getting thoughts on paper
-What are we writing here, include blurb on recessions.
+description: Getting thoughts on paper, this is where we explain what we are looking at and how it should factor into our analysis.
 image:
   path: "/docs/assets/images/RecessionsSP500.gif"
