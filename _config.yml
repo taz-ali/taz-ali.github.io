@@ -2,4 +2,4 @@ theme: jekyll-theme-architect
 title: Market Analysis
 description: Getting thoughts on paper
 
-<img src="https://taz-ali.github.io/docs/assets/images/RecessionsSP500.gif"/>
+image: <img src="https://taz-ali.github.io/docs/assets/images/RecessionsSP500.gif"/>
