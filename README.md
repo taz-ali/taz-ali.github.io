@@ -8,4 +8,13 @@
 - Zoom in
 ![alt text](https://taz-ali.github.io/docs/assets/images/RecessionsSP500.gif)
 
+## Timeline
+As humans we tend to forget major events that moved markets, to mitigate lets map a timeline
+| Date        | Event                        | Consequence         | Reaction |
+|:-----------:|------------------------------| --------------------| --------:|
+| Jul 2024    | Biden drops out of race      |                     |          |
+|             |                              |                     |          |
+|             |                              |                     |          |
+
+
 # small steps overtime = big results
