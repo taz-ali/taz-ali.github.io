@@ -9,12 +9,10 @@
 ![alt text](https://taz-ali.github.io/docs/assets/images/RecessionsSP500.gif)
 
 ## Timeline
-As humans we tend to forget major events that moved markets, to mitigate lets map a timeline
-| Date        | Event                        | Consequence         | Reaction |
-|:-----------:|------------------------------| --------------------| --------:|
-| Jul 2024    | Biden drops out of race      |                     |          |
-|             |                              |                     |          |
-|             |                              |                     |          |
+As humans we tend to forget major events that moved markets, to mitigate lets map a timeline:
+
+`Jul 2024`  Biden drops out of race
+`Jun 2024`  ECB lowers rate (4.25), Fed and BOE hold rates (5.25-5.50, 5.25) 
 
 
 # small steps overtime = big results
