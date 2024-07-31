@@ -10,9 +10,9 @@
 
 ## Timeline
 As humans we tend to forget major events that moved markets, to mitigate lets map a timeline:
-
-`Jul 2024`  Biden drops out of race
-`Jun 2024`  ECB lowers rate (4.25), Fed and BOE hold rates (5.25-5.50, 5.25) 
+  `Jul 2024`  Biden drops out of race
+  `Jun 2024`  ECB lowers rate (4.25), Fed and BOE hold rates (5.25-5.50, 5.25)
+  `May 2024`  ?
 
 
 # small steps overtime = big results
