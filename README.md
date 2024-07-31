@@ -13,13 +13,27 @@ We tend to forget major market moving events, to mitigate lets map a timeline:
 
 `Jul 2024`  Biden drops out of race
 
-`Jun 2024`  ECB lowers rate (4.25), Fed and BOE hold rates (5.25-5.50, 5.25)
+`Jun 2024`  ECB lowers rate to 4.25, Fed, BOE hold at 5.25-5.50 and 5.25
 
 `Feb 2020`  First COVID lockdown in effect globally
 
-`Feb 2008`  Northern Rock is taken over by the UK government after two failed takeover offers
+`Sep 2008`  Fannie and Freddie bailed out by the US government
+            Bank of America offers to buy Merrill Lynch for $50bn
+            Lehman Brothers files for the largest bankruptcy in history ($639bn)
+            Fed forced to bailout AIG with $85bn
+            Short selling on all financial stocks banned
 
-`Jan 2008`  Fed slashes rates
+`Jul 2008`  Fannie and Freddie short selling ban
+
+`Apr 2008`  IMF predicts potential losses in the trillions of dollars
+
+`Mar 2008`  Fed announces $200bn of Treasuries to prop the MBS market
+            Bear Stearns is bought by JP Morgan for $240m
+
+`Feb 2008`  Northern Rock is taken over by the UK government after two failed takeover offers
+            US home sales fall to a 10 year low, Bush signs economic stimulus act
+
+`Jan 2008`  Fed slashes rates by 75 bps to 3.5 then again to 3
 
 `Sep 2007`  Northern Rock in the UK suffers a bank run (first UK bank since 1866)
 
