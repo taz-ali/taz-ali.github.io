@@ -17,6 +17,15 @@ We tend to forget major market moving events, to mitigate lets map a timeline:
 
 `Feb 2020`  First COVID lockdown in effect globally
 
+`Mar 2009`  QE from BoE and ECB
+
+`Feb 2009`  Obama signs $787bn stimulus package
+
+`Dec 2008`  US and UK enter recessions
+            Fed slashes rates to zero, the lowest in history
+
+`Nov 2008`  QE from the FED starts and lasts till 2013, starting at $600bn, ended in the trillions
+
 `Oct 2008`  Syncronized rate cuts by major central banks.
             Icelands banking system collapses.
             UK government bails out RBS, Lloyds and HBOS over one weekend.
