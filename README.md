@@ -17,16 +17,20 @@ We tend to forget major market moving events, to mitigate lets map a timeline:
 
 `Feb 2020`  First COVID lockdown in effect globally
 
+`Oct 2008`  Syncronized rate cuts by major central banks.
+            Icelands banking system collapses.
+            UK government bails out RBS, Lloyds and HBOS over one weekend.
+
 `Sep 2008`  Fannie and Freddie bailed out by the US government.
             Bank of America offers to buy Merrill Lynch for $50bn.
             Lehman Brothers files for the largest bankruptcy in history ($639bn).
             Fed forced to bailout AIG with $85bn.
             SEC bans short selling on all financial stocks.
-            Halifax Bank of Scotland is bought by Lloyds TSB.
+            HBOS is bought by Lloyds TSB.
             Washington Mutual and Wachovia both go bust.
             MSCI world index falls by 6% in one day.
             Bradford and Bingley taken over by UK government.
-            TARP is finally approved, a $700bn program to buy bad assets.
+            TARP is finally approved in the US, a $700bn program to buy bad assets.
 
 `Jul 2008`  Fannie and Freddie short selling ban
 
