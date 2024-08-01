@@ -13,7 +13,7 @@ We tend to forget major market moving events, to mitigate lets map a timeline:
 
 `Jul 2024`  Biden drops out of race
 
-`Jun 2024`  ECB lowers rate to 4.25, Fed, BOE hold at 5.25-5.50 and 5.25
+`Jun 2024`  ECB lowers rate to (4.25), Fed, BOE hold (5.25-5.50 and 5.25)
 
 `Feb 2020`  First COVID lockdown in effect globally
 
@@ -21,7 +21,12 @@ We tend to forget major market moving events, to mitigate lets map a timeline:
             Bank of America offers to buy Merrill Lynch for $50bn.
             Lehman Brothers files for the largest bankruptcy in history ($639bn).
             Fed forced to bailout AIG with $85bn.
-            Short selling on all financial stocks banned.
+            SEC bans short selling on all financial stocks.
+            Halifax Bank of Scotland is bought by Lloyds TSB.
+            Washington Mutual and Wachovia both go bust.
+            MSCI world index falls by 6% in one day.
+            Bradford and Bingley taken over by UK government.
+            TARP is finally approved, a $700bn program to buy bad assets.
 
 `Jul 2008`  Fannie and Freddie short selling ban
 
