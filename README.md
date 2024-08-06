@@ -17,14 +17,33 @@ We tend to forget major market moving events, to mitigate lets map a timeline:
 
 `Feb 2020`  First COVID lockdown in effect globally
 
-`Mar 2009`  QE from BoE and ECB
+`Feb 2013`  UK is downgraded by Moodys from Aaa to Aa1
+
+`Feb 2012`  Second Greek bailout (165bn EUR)
+
+`Aug 2011`  US is downgraded by S&P from AAA to AA+
+
+`May 2011`  EU and IMF bailout Portugal (78bn EUR)
+
+`Feb 2011`  European Stability Mechanism(ESM) worth 500bn EUR is setup
+
+`Nov 2010`  Ireland is bailed out by the EU and IMF (85bn EUR)
+
+`Jul 2010`  Dodd Frank banking regulations is passed, focus on containing systemic risk in the financial system
+
+`May 2010`  European Debt Crisis begins.
+            Greece is bailed out by the IMF and EU(110 bn EUR) after 22bn and 30bn given in Mar and Apr
+
+`Mar 2009`  QE from BOE and ECB.
+            BOE slashes rates to 0.5, the lowest in history.
 
 `Feb 2009`  Obama signs $787bn stimulus package
 
-`Dec 2008`  US and UK enter recessions
-            Fed slashes rates to zero, the lowest in history
+`Dec 2008`  US and UK enter recessions.
+            Fed slashes rates to zero, the lowest in history.
 
-`Nov 2008`  QE from the FED starts and lasts till 2013, starting at $600bn, ended in the trillions
+`Nov 2008`  QE from the FED starts and lasts till 2013, starting at $600bn but ending in the trillions
+            Obama wins US election
 
 `Oct 2008`  Syncronized rate cuts by major central banks.
             Icelands banking system collapses.
