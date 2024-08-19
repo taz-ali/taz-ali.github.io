@@ -21,7 +21,15 @@ We tend to forget major market moving events, to mitigate lets map a timeline:
 
 `Feb 2012`  Second Greek bailout (165bn EUR)
 
-`Aug 2011`  US is downgraded by S&P from AAA to AA+
+`Aug 2011`  US is downgraded by S&P from AAA to AA+.
+            European Commission warns debt crisis spreading beyond the periphery.
+            Spainish and Italian govt bonds rise sharply with German falling to record lows.
+            ECB begins to by Italian and Spanish govt bonds.
+
+`Jul 2011`  Greece votes through austerity and gets 12bn EUR.
+            Eurozone agrees 109bn EUR package to fix Greek crisis and prevent contagion.
+
+`Jun 2011`  Greece pressured to increase austerity before next loan instalment
 
 `May 2011`  EU and IMF bailout Portugal (78bn EUR)
 
