@@ -17,6 +17,10 @@ We tend to forget major market moving events, to mitigate lets map a timeline:
 
 `Feb 2020`  First COVID lockdown in effect globally
 
+`Jan 2020`  Brexit took place on Jan 31st
+
+`Jun 2016`  Brexit referendum vote
+
 `Feb 2013`  UK is downgraded by Moodys from Aaa to Aa1
 
 `Feb 2012`  Second Greek bailout (165bn EUR)
